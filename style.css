@@ -37,3 +37,16 @@ nav a {
 nav a:hover {
   background: #f00;
 }
+
+.img {
+  width: 100%;
+  border: 5px solid #fff;
+  border-radius: 10px;
+  box-shadow: 2px 2px 20px #000;
+}
+
+.poster {
+  border-radius: 10px;
+  border: 5px solid #fff;
+  box-shadow: 2px 2px 20px #000;
+}
